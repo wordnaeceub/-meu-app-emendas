@@ -1,0 +1,28 @@
+{
+  "emendas": {
+    "NR EMENDA": "Número identificador único da emenda parlamentar",
+    "PARLAMENTAR": "Nome do parlamentar que apresentou a emenda",
+    "UNIDADE": "Código da unidade orçamentária beneficiária",
+    "PROGRAMA DE TRABALHO": "Código do programa orçamentário",
+    "SUBTÍTULO": "Descrição do projeto/atividade financiada",
+    "NATUREZA DA DESPESA": "Código da natureza da despesa orçamentária",
+    "VALOR EMENDA": "Valor total aprovado para a emenda (R$)",
+    "STATUS DA EMENDA": "Situação da emenda (Ativo, Cancelado, etc)",
+    "DESBLOQUEADO": "Valor já desbloqueado/liberado (R$)",
+    "BLOQUEADO": "Valor ainda bloqueado (R$)",
+    "EMPENHADO": "Valor já empenho (comprometido) (R$)",
+    "LIQUIDADO": "Valor já liquidado (pago) (R$)",
+    "DISPONÍVEL": "Valor ainda disponível para uso (R$)"
+  },
+  "oficios": {
+    "NR EMENDA": "Número da emenda relacionada",
+    "NR OFÍCIO": "Número identificador do ofício de desbloqueio",
+    "OBJETO": "Descrição detalhada do objeto/projeto a ser executado",
+    "DATA SOLICITAÇÃO": "Data de solicitação do desbloqueio",
+    "DATA AUTORIZAÇÃO": "Data de autorização pelo gestor",
+    "DATA LIBERAÇÃO": "Data de liberação/desbloqueio do recurso",
+    "AUTORIZADO": "Valor autorizado no ofício (R$)",
+    "LIBERADO": "Valor efetivamente liberado (R$)",
+    "SALDO DO OFÍCIO": "Saldo disponível = Liberado - Bloqueio (R$)"
+  }
+}

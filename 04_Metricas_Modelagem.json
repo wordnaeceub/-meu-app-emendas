@@ -1,0 +1,17 @@
+{
+  "algoritmo": "Linear Regression",
+  "tamanho_treino": 35,
+  "tamanho_teste": 9,
+  "baseline_rmse": 642133.4194444134,
+  "baseline_r2": -0.04291688718169295,
+  "modelo_rmse": 280238.0987422381,
+  "modelo_mae": 199690.68464065387,
+  "modelo_r2": 0.8013660361462441,
+  "coeficientes": {
+    "VALOR_EMENDA": 0.5829131611065189,
+    "DESBLOQUEADO_SIGGO": 0.16763753731079434,
+    "BLOQUEADO": -0.4558431886470284,
+    "Intercept": -184514.76808664307
+  },
+  "melhoria_r2_pct": 1967.251072412546
+}

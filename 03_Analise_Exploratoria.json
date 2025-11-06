@@ -1,0 +1,33 @@
+{
+  "total_emendas": 62,
+  "valor_total_emendas": 30141000.0,
+  "valor_medio_emendas": 486145.1612903226,
+  "taxa_empenho_pct": 66.11122031051757,
+  "taxa_liquidacao_pct": 41.82738845357852,
+  "valor_bloqueado": 6416000.04,
+  "perc_bloqueado": 21.286619687468896,
+  "status_emendas": {
+    "Ativo": 57,
+    "Cancelado": 5
+  },
+  "top_unidades": {
+    "24105-PCDF": 5300000,
+    "18101-SEE": 4424000,
+    "28209-CODHAB": 3500000,
+    "26205-DER": 3035000,
+    "64101-SEAPE": 2500000,
+    "34101-SEL": 1731000,
+    "17902-FAS": 1500000,
+    "26206-METRÔ": 1500000,
+    "57101-SMDF": 1400000,
+    "22201-NOVACAP": 1085000
+  },
+  "total_oficios": 142,
+  "valor_total_liberado_oficios": 26604999.96,
+  "status_oficios": {
+    "Desbloqueado": 79,
+    "Anulado": 29,
+    "Em Análise SERP": 28,
+    "Em Análise Unidade": 6
+  }
+}
